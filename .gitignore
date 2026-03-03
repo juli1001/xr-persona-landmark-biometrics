@@ -1,0 +1,21 @@
+# data (keep folders only)
+data/*
+!data/**/.gitkeep
+!data/**/README.md
+!data/sample/**
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# misc
+*.log
