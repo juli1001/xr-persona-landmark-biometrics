@@ -1,4 +1,4 @@
-# Detecting XR Persona Impersonation Using Landmark-Based Biometrics
+# Landmark-Based Machine Learning for XR Avatar Impersonation Detection
 
 This project started because I noticed something interesting while working with hyper-realistic XR avatars (Persona-style). 
 
